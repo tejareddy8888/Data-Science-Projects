@@ -1,5 +1,6 @@
 # Data-Science-Projects
 Mutliple projects worked during my coursework and personal project all together.
+
 ArticleSummarization.py -> is the python file works on the Article Summarization using pytorch's transformers for summarization and genism for topic modeling.
 
 Topic Modeling on News.ipynb -> this is a personal project to extract News about artificial intelligence and machine learning and performing topic modeling on these articles extracted.
